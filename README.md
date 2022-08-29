@@ -15,5 +15,15 @@ This repo is for the maintenance of the Colab script itself
 - Upload the downloaded file into Ai/models (create the models folder)
 
 Then click Runtime -> Run After
+It will ask you to connect your google drive to find the model.
+
 ![CleanShot 2022-08-28 at 21 47 03@2x](https://user-images.githubusercontent.com/463317/187119142-860634f0-2d55-4e6b-b54d-a7d8b510db36.jpg)
 
+The keep running the cells or again hit Runtime -> Run After
+
+After all cells have run, time to launcht he webui! 
+
+![CleanShot 2022-08-28 at 22 05 13@2x](https://user-images.githubusercontent.com/463317/187121016-26b24be2-3317-4f24-a8c0-5f917fa4ded2.jpg)
+
+## TADA 
+![CleanShot 2022-08-28 at 22 06 42@2x](https://user-images.githubusercontent.com/463317/187121044-40210fd8-ca80-4bab-bd90-3b749e06c8fb.jpg)
