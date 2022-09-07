@@ -1,4 +1,4 @@
-# Colab version of the amazing stable diffusion web ui repo located [here](https://github.com/hlky/stable-diffusion)
+# Colab version of the amazing stable diffusion web ui repo located [here](https://github.com/hlky/stable-diffusion-webui)
 See the original repo for all the features
 
 This repo is for the maintenance of the Colab script itself
