@@ -10,7 +10,7 @@ This repo is for the maintenance of the Colab script itself
 ![CleanShot 2022-08-28 at 21 40 05@2x](https://user-images.githubusercontent.com/463317/187118517-6c5cbe01-84d1-4e39-97e7-9ffd85c00d2a.jpg)
 
 ## After it loads everything, it **WILL** fail and send you a notification, it's ok
-- Download the stable diffusion model (s-d-v1-4.ckpt) file from [Hugging Face Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+- Download the stable diffusion model (s-d-v1-4.ckpt) file from [Hugging Face Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
 - Create a folder in the root of your Google Drive and name it `AI`
 - Upload the downloaded file into Ai/models (create the models folder)
 
