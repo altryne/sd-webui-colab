@@ -1,3 +1,6 @@
+[Deprecated - this repo is not maintaned anymore as there are more up to date, faster and better Colabs out there]
+
+
 # Colab version of the amazing stable diffusion web ui repo located [here](https://github.com/hlky/stable-diffusion)
 See the original repo for all the features
 
